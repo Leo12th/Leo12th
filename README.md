@@ -1,1 +1,1 @@
-<img src="/imagens/css3.jpg">
+<img src="css3.jpg">
