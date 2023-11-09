@@ -1,5 +1,5 @@
-<img src="css3.jpg"><img src="apache.png.jpg"><img src="docker.jpg"><img src="FastAPI.jpg"><img src="gradle.jpg"><img src="html5.jpg"><img src="java.jpg"><img src="JavaScript.jpg">
-<img src="mysql.jpg"><img src="php.jpg"><img src="Python.jpg"><img src="react.jpg"><img src="Typescript.svg">
+<img src="css3.svg"><img src="apache.svg"><img src="docker.svg"><img src="FastAPI.svg"><img src="gradle.svg"><img src="html5.svg"><img src="java.svg"><img src="JavaScript.svg">
+<img src="mysql.svg"><img src="php.svg"><img src="Python.svg"><img src="react.svg"><img src="Typescript.svg">
 
 
 
