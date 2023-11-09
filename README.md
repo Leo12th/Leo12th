@@ -3,7 +3,11 @@
 <img src="mysql.svg" alt="MySQL" width="50"><img src="php.svg" alt="PHP" width="50"><img src="Python.svg" alt="Python" width="50"><img src="react.svg" alt="React" width="50"><img src="Typescript.svg" alt="TypeScript" width="50">
 
 **📊 GitHub Stats:**
+
+
 [![Leo12th GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leo12th&show_icons=true&theme=radical)](https://github.com/Leo12th)
 
 **Linguagens Mais Utilizadas:**
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo12th&layout=compact)](https://github.com/Leo12th)
