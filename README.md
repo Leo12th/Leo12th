@@ -1,1 +1,1 @@
-![Texto Alternativo](Leo12th/imagens/apache.png)
+![Texto Alternativo](imagens/apache.png)
