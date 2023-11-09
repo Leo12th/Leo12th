@@ -1,2 +1,2 @@
-![Texto Alternativo](imagens/apache.svg)
+![Texto Alternativo](imagens/apache.png)
 
