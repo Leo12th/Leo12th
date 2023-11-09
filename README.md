@@ -1,1 +1,1 @@
-![Texto Alternativo](imagens/react.png)
+![Texto Alternativo](react.png)
