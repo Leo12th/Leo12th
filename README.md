@@ -1,1 +1,1 @@
-![Texto Alternativo](react.png)
+<img src="/imagens/react.png">
